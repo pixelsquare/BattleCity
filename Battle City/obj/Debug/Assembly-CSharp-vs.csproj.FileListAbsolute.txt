@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Battle City\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Anthony\Desktop\Battle City\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Anthony\Desktop\Battle City\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Anthony\Desktop\Battle City\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Anthony\Desktop\Battle City\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Anthony\Desktop\Battle City\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Anthony\Desktop\Battle City\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Anthony\Desktop\Battle City\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Battle City\obj\Debug\Assembly-CSharp.dll
+C:\Users\Anthony\Desktop\Battle City\obj\Debug\Assembly-CSharp.pdb
